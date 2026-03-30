@@ -1,16 +1,29 @@
-## Hi there 👋
+Olá, eu sou a Nicole 👋
 
-<!--
-**brangernicole/brangernicole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora Front-end em formação
+🚀 Focada em React, JavaScript e TypeScript
+🎨 Criando interfaces modernas, responsivas e performáticas
 
-Here are some ideas to get you started:
+🚀 Tecnologias
+HTML
+CSS
+JavaScript
+React
+TypeScript
+Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📚 Atualmente estudando
+
+Testes em React
+Arquitetura Front-end
+Performance Web
+
+🎯 Objetivo
+
+Busco minha primeira oportunidade como Desenvolvedora Front-end para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com projetos reais.
+
+📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/nicole-branger/
+Email: brangernicole@gmail.com
