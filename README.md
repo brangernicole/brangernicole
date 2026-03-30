@@ -5,19 +5,19 @@ Olá, eu sou a Nicole 👋
 🎨 Criando interfaces modernas, responsivas e performáticas
 
 🚀 Tecnologias
-HTML
-CSS
-JavaScript
-React
-TypeScript
+HTML |
+CSS |
+JavaScript |
+React |
+TypeScript |
 Tailwind CSS
 
 
 📚 Atualmente estudando
 
-Testes em React
-Arquitetura Front-end
-Performance Web
+Testes em React, 
+Arquitetura Front-end, 
+Performance Web.
 
 🎯 Objetivo
 
